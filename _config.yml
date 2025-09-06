@@ -1,0 +1,32 @@
+---
+port: 4000
+host: 0.0.0.0
+safe: false
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title
+timezone: Europe/Madrid
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Liana & Camille's Wedding"
+keywords:    "wedding, Liana, Camille, Barcelona, September 2025"
+description: "We’re getting married! Join us in Barcelona on September 20, 2025."
+source_link: ""
+favicon:     "assets/img/favicon.ico"
+touch_icon:  "assets/img/apple-touch-icon.png"
+google_analytics_key: ""  # optional
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#ffffff'
+  gold:      '#d4a373'
+  blush:     '#f4d6d9'
+  sage:      '#a8bfa1'
+  lavender:  '#b5a8d1'
+
+kramdown:
+  auto_ids:  false
