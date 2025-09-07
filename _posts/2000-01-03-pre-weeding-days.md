@@ -3,6 +3,7 @@ title: "Pre-Wedding"
 bg: beige
 color: charcoal
 ---
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -240px;">
 
 <!-- Date & Location -->
 <div style="
@@ -24,7 +25,7 @@ color: charcoal
 <!-- photo of the beach location -->
 <div style="
   width: 100%;
-  min-height: 85vh; /* takes 40% of viewport height */
+  min-height: 85vh;
   background: url('/assets/img/beach_pool.jpg') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
