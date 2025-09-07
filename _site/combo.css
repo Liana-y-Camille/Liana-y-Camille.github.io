@@ -523,34 +523,50 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-gallery { border-color: #FAF3E0; }
-  #gallery { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #gallery a { color: #2C2C2C; }
-  #gallery .sectiondivider { color: #FAF3E0; }
+  nav .p-travel { border-color: #FAF3E0; }
+  #travel { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #travel a { color: #2C2C2C; }
+  #travel .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-schedule { border-color: #FAF3E0; }
-  #schedule { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #schedule a { color: #2C2C2C; }
-  #schedule .sectiondivider { color: #FAF3E0; }
+  nav .p-q-and-a { border-color: #FAF3E0; }
+  #q-and-a { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #q-and-a a { color: #2C2C2C; }
+  #q-and-a .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-venue { border-color: #FAF3E0; }
-  #venue { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #venue a { color: #2C2C2C; }
-  #venue .sectiondivider { color: #FAF3E0; }
+  nav .p-photos { border-color: #FAF3E0; }
+  #photos { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #photos a { color: #2C2C2C; }
+  #photos .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-welcome { border-color: #FAF3E0; }
-  #welcome { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #welcome a { color: #2C2C2C; }
-  #welcome .sectiondivider { color: #FAF3E0; }
+  nav .p-wedding-party { border-color: #FAF3E0; }
+  #wedding-party { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #wedding-party a { color: #2C2C2C; }
+  #wedding-party .sectiondivider { color: #FAF3E0; }
+
+  
+  
+  
+  nav .p-pre-weeding-days { border-color: #FAF3E0; }
+  #pre-weeding-days { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #pre-weeding-days a { color: #2C2C2C; }
+  #pre-weeding-days .sectiondivider { color: #FAF3E0; }
+
+  
+  
+  
+  nav .p-home { border-color: #FAF3E0; }
+  #home { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #home a { color: #2C2C2C; }
+  #home .sectiondivider { color: #FAF3E0; }
 
 
 

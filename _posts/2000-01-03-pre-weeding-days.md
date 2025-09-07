@@ -1,3 +1,9 @@
+---
+title: "Welcome Parties"
+bg: beige
+color: charcoal
+---
+
 <!-- text -->
 <div style="
   color: #2C2C2C;               /* charcoal text for readability */
@@ -9,6 +15,7 @@
   margin: 40px auto;
 ">
   <p>
-     Tell about the schedule
+     sdfsdfsf
   </p>
 </div>
+

@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Wedding party"
 bg: beige
 color: charcoal
 style: center
@@ -17,6 +17,6 @@ style: center
   margin: 40px auto;
 ">
   <p>
-     Tell about the schedule
+     Tsdlfkjsdflkjdfldsf
   </p>
 </div>
