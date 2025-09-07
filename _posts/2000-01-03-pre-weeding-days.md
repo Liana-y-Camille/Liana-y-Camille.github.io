@@ -4,17 +4,6 @@ bg: beige
 color: charcoal
 ---
 
-<!-- photo of the beach location -->
-<div style="
-  width: 100%;
-  height: 900px; /* adjust height as you like */
-  background: url('/assets/img/beach_pool.jpg') no-repeat center center;
-  background-size: cover;
-">
-</div>
-
-<div style="margin-top: 50px;"></div>   <!-- add blank space above -->
-
 <!-- Date & Location -->
 <div style="
   text-align: center;
@@ -31,6 +20,21 @@ color: charcoal
     <span style="font-size: 1.5em;">10:00 – 17:30</span>
   </strong>
 </div>
+
+<!-- photo of the beach location -->
+<div style="
+  width: 100%;
+  min-height: 85vh; /* takes 40% of viewport height */
+  background: url('/assets/img/beach_pool.jpg') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<div style="margin-top: 50px;"></div>   <!-- add blank space above -->
+
+
 
 
 
