@@ -17,6 +17,8 @@ style: center
   margin: 40px auto;
 ">
   <p>
-     TEST
+     Attire: Black tie
+Suits, ties, floor length dresses and gowns. If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. Please keep the grass in mind when choosing shoes.
+
   </p>
 </div>

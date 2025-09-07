@@ -523,6 +523,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-gallery { border-color: #FAF3E0; }
+  #gallery { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #gallery a { color: #2C2C2C; }
+  #gallery .sectiondivider { color: #FAF3E0; }
+
+  
+  
+  
   nav .p-travel { border-color: #FAF3E0; }
   #travel { background-color: #FAF3E0 !important; color: #2C2C2C; }
   #travel a { color: #2C2C2C; }
@@ -535,14 +543,6 @@ html { box-sizing: border-box; }
   #q-and-a { background-color: #FAF3E0 !important; color: #2C2C2C; }
   #q-and-a a { color: #2C2C2C; }
   #q-and-a .sectiondivider { color: #FAF3E0; }
-
-  
-  
-  
-  nav .p-photos { border-color: #FAF3E0; }
-  #photos { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #photos a { color: #2C2C2C; }
-  #photos .sectiondivider { color: #FAF3E0; }
 
   
   
