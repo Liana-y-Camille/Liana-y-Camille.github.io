@@ -1,18 +1,16 @@
----
----
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title }}</title>
-  <meta name="keywords" content="{{ site.keywords }}">
-  <meta name="description" content="{{ site.description }}">
+  <title>Liana & Camille's Wedding</title>
+  <meta name="keywords" content="wedding, Liana, Camille, Barcelona, September 2025">
+  <meta name="description" content="We’re getting married! Join us in Barcelona on September 20, 2025.">
   <link rel="stylesheet" href="combo.css">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
-  {% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+  <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
 </head>
 <body>
   <div id="main">
@@ -20,61 +18,186 @@
     <!-- Navigation -->
     <nav>
       <ul>
-        {% for node in site.posts reversed %}
-          {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-          <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-        {% endfor %}
+        
+          
+          <li class="p-welcome"><a href="#welcome">Welcome</a></li>
+        
+          
+          <li class="p-our-story"><a href="#our-story">Our Story</a></li>
+        
+          
+          <li class="p-venue"><a href="#venue">Venue</a></li>
+        
+          
+          <li class="p-schedule"><a href="#schedule">Schedule</a></li>
+        
+          
+          <li class="p-gallery"><a href="#gallery">Gallery</a></li>
+        
       </ul>
     </nav>
 
     <!-- Sections -->
-    {% for page in site.posts reversed %}
-      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+    
+      
 
-      {% comment %} Build inline style for background and text color {% endcomment %}
-      {% assign bg_style = "" %}
-      {% if page.bg %}
-        {% assign bg_style = "background: url('/assets/img/" | append: page.bg | append: "') no-repeat center center; background-size: cover;" %}
-      {% endif %}
+      
+      
+      
 
-      {% assign color_style = "color: white;" %}
-      {% if page.color %}
-        {% assign color_style = "color: " | append: page.color | append: ";" %}
-      {% endif %}
+      
+      
 
-      <div id="{{id}}" class="section p-{{id}}" style="{{ bg_style }} {{ color_style }}">
-        {% if page.icon %}
-          <div class="subtlecircle sectiondivider imaged">
-            <img src="{{page.icon}}" alt="section icon" />
-            <h5 class="icon-title">{{ page.title }}</h5>
-          </div>
-        {% elsif page.fa-icon %}
-          <div class="subtlecircle sectiondivider faicon">
-            <span class="fa-stack">
-              <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
-            </span>
-            <h5 class="icon-title">{{ page.title }}</h5>
-          </div>
-        {% endif %}
+      <div id="welcome" class="section p-welcome" style="background: url('/assets/img/foret_venue_view.jpg') no-repeat center center; background-size: cover; color: Black;">
+        
 
-        <div class="container {{ page.style }}">
-          {{ page.content }}
+        <div class="container center">
+          <h1>💍 Liana &amp; Camille</h1>
+
+<h2>We’re getting married! 🎉</h2>
+
+<p>📅 <strong>March 14, 2026</strong><br />
+📍 <strong>El Salvador</strong></p>
+
+<hr />
+
+<p><img src="/assets/img/us_camaret.jpg" alt="Us together" class="rounded shadow" width="60%" /></p>
+
+<hr />
+
+<p><a href="#our-story" class="btn btn-lg btn-light">See Our Story ↓</a></p>
+
         </div>
       </div>
-    {% endfor %}
+    
+      
+
+      
+      
+      
+
+      
+      
+
+      <div id="our-story" class="section p-our-story" style="background: url('/assets/img/black') no-repeat center center; background-size: cover; color: white;">
+        
+
+        <div class="container ">
+          <h1>How It All Began</h1>
+
+<p>We first met in <strong>2018 in Paris</strong>, over a shared love of coffee and music.<br />
+Since then, our adventures have taken us across Europe, hiking trails, and many late-night conversations.</p>
+
+<hr />
+
+<p><img src="/assets/img/travel.jpg" alt="Travel moments" class="shadow" width="70%" /></p>
+
+<hr />
+
+<p>❤️ Now, we can’t wait to begin this next chapter together.</p>
+
+        </div>
+      </div>
+    
+      
+
+      
+      
+      
+
+      
+      
+
+      <div id="venue" class="section p-venue" style=" color: white;">
+        
+
+        <div class="container ">
+          <h1>Bonito Venue</h1>
+
+<p>blabliblou</p>
+
+<hr />
+
+<p><a href="#welcome" class="btn btn-light">Back to Top ↑</a></p>
+
+        </div>
+      </div>
+    
+      
+
+      
+      
+      
+
+      
+      
+
+      <div id="schedule" class="section p-schedule" style="background: url('/assets/img/yellow') no-repeat center center; background-size: cover; color: black;">
+        
+
+        <div class="container ">
+          <ul>
+  <li><strong>3:00 PM</strong> – Guests arrive</li>
+  <li><strong>3:30 PM</strong> – Ceremony</li>
+  <li><strong>5:00 PM</strong> – Cocktail hour</li>
+  <li><strong>7:00 PM</strong> – Dinner &amp; dancing</li>
+  <li><strong>12:00 AM</strong> – Shuttle buses back to Barcelona</li>
+</ul>
+
+        </div>
+      </div>
+    
+      
+
+      
+      
+      
+
+      
+      
+
+      <div id="gallery" class="section p-gallery" style="background: url('/assets/img/black') no-repeat center center; background-size: cover; color: white;">
+        
+
+        <div class="container ">
+          <p>Photos de nosotros</p>
+
+        </div>
+      </div>
+    
 
     <!-- Footer -->
     <div id="footer" class="section text-white">
       <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
+        
+        
+<p>Design by Tim O’Brien <a href="http://t413.com/">t413.com</a>
+—
+<a href="https://github.com/t413/SinglePaged">SinglePaged theme</a>
+—
+this site is <a href="">open source</a></p>
+
+
       </div>
     </div>
 
   </div>
 
-  {% include analytics.html %}
+  
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="site.js"></script>
 </body>
