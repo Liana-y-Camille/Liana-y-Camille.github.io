@@ -1,5 +1,5 @@
 ---
-title: "Welcome Parties"
+title: "Pre-Wedding"
 bg: beige
 color: charcoal
 ---
@@ -24,7 +24,7 @@ color: charcoal
 <!-- photo of the beach location -->
 <div style="
   width: 100%;
-  min-height: 85vh; /* takes 40% of viewport height */
+  aspect-ratio: 16 / 9;
   background: url('/assets/img/beach_pool.jpg') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
