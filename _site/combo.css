@@ -472,30 +472,50 @@ html { box-sizing: border-box; }
 .text-black a { color: #111111; }
 .bg-black     { background-color: #111111 !important; }
 
-.border-white { border-color: #ffffff !important; }
-.text-white   { color: #ffffff; }
-.text-white a { color: #ffffff; }
-.bg-white     { background-color: #ffffff !important; }
+.border-white { border-color: #FFFFFF !important; }
+.text-white   { color: #FFFFFF; }
+.text-white a { color: #FFFFFF; }
+.bg-white     { background-color: #FFFFFF !important; }
 
-.border-gold { border-color: #d4a373 !important; }
-.text-gold   { color: #d4a373; }
-.text-gold a { color: #d4a373; }
-.bg-gold     { background-color: #d4a373 !important; }
+.border-blue { border-color: #49a7e9 !important; }
+.text-blue   { color: #49a7e9; }
+.text-blue a { color: #49a7e9; }
+.bg-blue     { background-color: #49a7e9 !important; }
 
-.border-blush { border-color: #f4d6d9 !important; }
-.text-blush   { color: #f4d6d9; }
-.text-blush a { color: #f4d6d9; }
-.bg-blush     { background-color: #f4d6d9 !important; }
+.border-green { border-color: #9bcf2f !important; }
+.text-green   { color: #9bcf2f; }
+.text-green a { color: #9bcf2f; }
+.bg-green     { background-color: #9bcf2f !important; }
 
-.border-sage { border-color: #a8bfa1 !important; }
-.text-sage   { color: #a8bfa1; }
-.text-sage a { color: #a8bfa1; }
-.bg-sage     { background-color: #a8bfa1 !important; }
+.border-purple { border-color: #c869bf !important; }
+.text-purple   { color: #c869bf; }
+.text-purple a { color: #c869bf; }
+.bg-purple     { background-color: #c869bf !important; }
 
-.border-lavender { border-color: #b5a8d1 !important; }
-.text-lavender   { color: #b5a8d1; }
-.text-lavender a { color: #b5a8d1; }
-.bg-lavender     { background-color: #b5a8d1 !important; }
+.border-orange { border-color: #fab125 !important; }
+.text-orange   { color: #fab125; }
+.text-orange a { color: #fab125; }
+.bg-orange     { background-color: #fab125 !important; }
+
+.border-turquoise { border-color: #0fbfcf !important; }
+.text-turquoise   { color: #0fbfcf; }
+.text-turquoise a { color: #0fbfcf; }
+.bg-turquoise     { background-color: #0fbfcf !important; }
+
+.border-beige { border-color: #FAF3E0 !important; }
+.text-beige   { color: #FAF3E0; }
+.text-beige a { color: #FAF3E0; }
+.bg-beige     { background-color: #FAF3E0 !important; }
+
+.border-charcoal { border-color: #2C2C2C !important; }
+.text-charcoal   { color: #2C2C2C; }
+.text-charcoal a { color: #2C2C2C; }
+.bg-charcoal     { background-color: #2C2C2C !important; }
+
+.border-accent { border-color: #C08552 !important; }
+.text-accent   { color: #C08552; }
+.text-accent a { color: #C08552; }
+.bg-accent     { background-color: #C08552 !important; }
 
 
 /* ----- per-post colors! ----- */
@@ -503,42 +523,34 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-gallery { border-color: #111111; }
-  #gallery { background-color: #111111 !important; color: #ffffff; }
-  #gallery a { color: #ffffff; }
-  #gallery .sectiondivider { color: #111111; }
+  nav .p-gallery { border-color: #FAF3E0; }
+  #gallery { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #gallery a { color: #2C2C2C; }
+  #gallery .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-schedule { border-color: yellow; }
-  #schedule { background-color: yellow !important; color: #111111; }
-  #schedule a { color: #111111; }
-  #schedule .sectiondivider { color: yellow; }
+  nav .p-schedule { border-color: #FAF3E0; }
+  #schedule { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #schedule a { color: #2C2C2C; }
+  #schedule .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-venue { border-color: ; }
-  #venue { background-color:  !important; color: #ffffff; }
-  #venue a { color: #ffffff; }
-  #venue .sectiondivider { color: ; }
+  nav .p-venue { border-color: #FAF3E0; }
+  #venue { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #venue a { color: #2C2C2C; }
+  #venue .sectiondivider { color: #FAF3E0; }
 
   
   
   
-  nav .p-our-story { border-color: #111111; }
-  #our-story { background-color: #111111 !important; color: #ffffff; }
-  #our-story a { color: #ffffff; }
-  #our-story .sectiondivider { color: #111111; }
-
-  
-  
-  
-  nav .p-welcome { border-color: foret_venue_view.jpg; }
-  #welcome { background-color: foret_venue_view.jpg !important; color: Black; }
-  #welcome a { color: Black; }
-  #welcome .sectiondivider { color: foret_venue_view.jpg; }
+  nav .p-welcome { border-color: #FAF3E0; }
+  #welcome { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #welcome a { color: #2C2C2C; }
+  #welcome .sectiondivider { color: #FAF3E0; }
 
 
 

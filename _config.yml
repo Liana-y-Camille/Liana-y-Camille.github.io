@@ -1,32 +1,44 @@
 ---
+
 port: 4000
 host: 0.0.0.0
 safe: false
 
+
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: /:title
-timezone: Europe/Madrid
+permalink: /:title ## disables post output
+timezone: null
 lsi: false
 markdown: kramdown
 
+
 ### content configuration ###
-title:       "Liana & Camille's Wedding"
-keywords:    "wedding, Liana, Camille, Barcelona, September 2025"
-description: "We’re getting married! Join us in Barcelona on September 20, 2025."
-source_link: ""
-favicon:     "assets/img/favicon.ico"
-touch_icon:  "assets/img/apple-touch-icon.png"
-google_analytics_key: ""  # optional
+title:       "SinglePaged - Simple Jekyll template"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+
 
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#ffffff'
-  gold:      '#d4a373'
-  blush:     '#f4d6d9'
-  sage:      '#a8bfa1'
-  lavender:  '#b5a8d1'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  beige:     "#FAF3E0"   # soft bone white
+  charcoal:  "#2C2C2C"   # readable text
+  white:     "#FFFFFF"
+  black:     "#111111"
+  accent:    "#C08552"   # optional warm accent for links/buttons
+
 
 kramdown:
   auto_ids:  false
+
