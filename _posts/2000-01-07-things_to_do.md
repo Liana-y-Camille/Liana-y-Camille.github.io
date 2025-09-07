@@ -1,0 +1,66 @@
+---
+title: "Things to Do"
+bg: beige
+color: charcoal
+style: center
+---
+
+
+
+<!-- text about the venue-->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.2em;">
+    Things to Do Around El Salvador
+
+Day Trips
+
+La Libertad Beaches – Just 45 mins from San Salvador.
+
+El Tunco: Go to any of the restaurants and bars around in the little surf town. Don’t miss the baos!
+
+El Zonte: Take a surf lesson, skate in the bowl or just have some food and drinks at one of the restaurants/bars by the beach.
+
+La Hola: Delicious seafood and drinks by the ocean.
+
+Puro Surf: Surf academy + restaurant—try surf-skating if you feel adventurous.
+
+Cascadas de Tamanique – About an hour away. Intermediate hike to stunning waterfalls. For a guide, contact Vladi (+503 7099 1445).
+
+Centro Histórico de San Salvador – A mix of culture and fun:
+
+Play pool at La Dalia
+
+Dance at Cha-Cha-Cha
+
+Check out City Forum Binaes and the National Palace
+
+Peñón de Comasagua – Small hike (around 1.5 hrs) to a giant rock with awesome views.
+
+Cerro Verde – Nature and views galore:
+
+Hike Volcán de Santa Ana if you’re up for it
+
+Enjoy Volcán de Izalco from Casa 1800 (perfect spot for lunch or drinks)
+
+Or camp at Casa de Cristal for a night under the stars
+
+Parque El Imposible – Tons of trails for hiking and exploring.
+
+Overnight Trips
+
+Beaches in Oriente:
+
+El Cuco: Chill at La Tortuga for a full beach day.
+
+Punta Mango: Surf lessons! (This is where we got engaged 💛)
+
+Mirador Espíritu de la Montaña (Conchagua) – Bring a tent and catch a breathtaking sunrise.
+  </p>
+</div>
