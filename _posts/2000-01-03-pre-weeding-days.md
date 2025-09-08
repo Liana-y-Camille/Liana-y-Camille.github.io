@@ -21,7 +21,7 @@ color: charcoal
     <span style="font-size: 2em;">Pre-Wedding<br>Beach Day</span><br>
     <br>
     <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br>
-    <span style="font-size: 1.2em;">10:00 – 17:30</span>
+    <span style="font-size: 1.2em;">11:00 – 19:00</span>
   </strong>
 </div>
 
@@ -70,8 +70,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from XXX Hotel to El Sunzal. <br>
-    Pick-up time at XXX Hotel: 10:00 am <br>
-    Return time to San Salvador: 17:30 pm
+    Pick-up time at XXX Hotel: 11:00 am <br>
+    Departure time to San Salvador: 19:00 pm
   </div>
 
   <!-- Keep in Mind -->
