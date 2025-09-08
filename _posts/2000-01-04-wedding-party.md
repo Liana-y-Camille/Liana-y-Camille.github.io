@@ -71,9 +71,9 @@ style: center
 
 
 
-<div style="margin-top: 150px;"></div>   <!-- add blank space above -->
+<div style="margin-top: 120px;"></div>   <!-- add blank space above -->
 <hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
-<div style="margin-top: 150px;"></div>   <!-- add blank space above -->
+<div style="margin-top: 120px;"></div>   <!-- add blank space above -->
 
 
 

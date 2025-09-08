@@ -59,7 +59,7 @@ color: charcoal
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Bring your beach clothes! <br><br>
-    We invite friends and family coming from abroad to spend a chill and fun day with us at the beach.
+    To start the celebrations, we invite our friends and family from abroad to enjoy a relaxed and fun day with us at the beach.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -81,8 +81,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br><br>
-    Food and drinks will be provided. <br><br>
+    Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br>
+    Food and drinks will be provided. <br>
     Please RSVP via Camille (+33670831699).
   </div>
 
@@ -147,7 +147,7 @@ color: charcoal
   <!-- Ataco Day Title -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      Day in Ataco's country house, <br> and visit of the charismatic town in the mountains of El Salvador
+      Day in Ataco's country house and town
     </div>
   </strong>
   <div style="font-size: 1.3em; margin-bottom: 1em;">
@@ -156,7 +156,7 @@ color: charcoal
 
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    We invite friends and family coming from abroad for a lunch and a visit of Ataco town.
+    We warmly invite friends and family traveling from abroad to join us for lunch at Liana’s country house, followed by a visit to Ataco, a charming town in the mountains of El Salvador.
   </div>
 
   <!-- Shuttle Service Info -->
