@@ -1,6 +1,6 @@
 ---
 title: "Pre-Wedding"
-bg: beige
+bg_color: "#FAF3E0"
 color: charcoal
 ---
 <div id="Pre-Wedding" style="padding-top: 0px; margin-top: -250px;"> <!-- avoid empty space after auto-scrolling -->

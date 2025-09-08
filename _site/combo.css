@@ -502,10 +502,10 @@ html { box-sizing: border-box; }
 .text-turquoise a { color: #0fbfcf; }
 .bg-turquoise     { background-color: #0fbfcf !important; }
 
-.border-beige { border-color: #FAF3E0 !important; }
-.text-beige   { color: #FAF3E0; }
-.text-beige a { color: #FAF3E0; }
-.bg-beige     { background-color: #FAF3E0 !important; }
+.border-beige { border-color: #FDE9D9 !important; }
+.text-beige   { color: #FDE9D9; }
+.text-beige a { color: #FDE9D9; }
+.bg-beige     { background-color: #FDE9D9 !important; }
 
 .border-charcoal { border-color: #2C2C2C !important; }
 .text-charcoal   { color: #2C2C2C; }
@@ -523,58 +523,58 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-gallery { border-color: #FAF3E0; }
-  #gallery { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-gallery { border-color: ; }
+  #gallery { background-color:  !important; color: #2C2C2C; }
   #gallery a { color: #2C2C2C; }
-  #gallery .sectiondivider { color: #FAF3E0; }
+  #gallery .sectiondivider { color: ; }
 
   
   
   
-  nav .p-q-and-a { border-color: #FAF3E0; }
-  #q-and-a { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-q-and-a { border-color: ; }
+  #q-and-a { background-color:  !important; color: #2C2C2C; }
   #q-and-a a { color: #2C2C2C; }
-  #q-and-a .sectiondivider { color: #FAF3E0; }
+  #q-and-a .sectiondivider { color: ; }
 
   
   
   
-  nav .p-things_to_do { border-color: #FAF3E0; }
-  #things_to_do { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-things_to_do { border-color: ; }
+  #things_to_do { background-color:  !important; color: #2C2C2C; }
   #things_to_do a { color: #2C2C2C; }
-  #things_to_do .sectiondivider { color: #FAF3E0; }
+  #things_to_do .sectiondivider { color: ; }
 
   
   
   
-  nav .p-travel { border-color: #FAF3E0; }
-  #travel { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-travel { border-color: ; }
+  #travel { background-color:  !important; color: #2C2C2C; }
   #travel a { color: #2C2C2C; }
-  #travel .sectiondivider { color: #FAF3E0; }
+  #travel .sectiondivider { color: ; }
 
   
   
   
-  nav .p-wedding-party { border-color: #FAF3E0; }
-  #wedding-party { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-wedding-party { border-color: ; }
+  #wedding-party { background-color:  !important; color: #2C2C2C; }
   #wedding-party a { color: #2C2C2C; }
-  #wedding-party .sectiondivider { color: #FAF3E0; }
+  #wedding-party .sectiondivider { color: ; }
 
   
   
   
-  nav .p-pre-weeding-days { border-color: #FAF3E0; }
-  #pre-weeding-days { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-pre-weeding-days { border-color: ; }
+  #pre-weeding-days { background-color:  !important; color: #2C2C2C; }
   #pre-weeding-days a { color: #2C2C2C; }
-  #pre-weeding-days .sectiondivider { color: #FAF3E0; }
+  #pre-weeding-days .sectiondivider { color: ; }
 
   
   
   
-  nav .p-home { border-color: #FAF3E0; }
-  #home { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  nav .p-home { border-color: ; }
+  #home { background-color:  !important; color: #2C2C2C; }
   #home a { color: #2C2C2C; }
-  #home .sectiondivider { color: #FAF3E0; }
+  #home .sectiondivider { color: ; }
 
 
 

@@ -22,8 +22,10 @@
     <nav>
       <ul>
         {% for node in site.posts reversed %}
-          {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-          <li class="p-{{id}}"><a href="#{{id}}">{{ node.title }}</a></li>
+          {% unless node.nav_hide or node['nav-hide'] %}
+            {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+            <li class="p-{{id}}"><a href="#{{id}}">{{ node.title }}</a></li>
+          {% endunless %}
         {% endfor %}
       </ul>
     </nav>
@@ -34,7 +36,9 @@
 
       <div id="{{id}}" class="section p-{{id}}"
            style="
-             {% if page.bg %}
+             {% if page.bg_color %}
+               background-color: {{ page.bg_color }};
+             {% elsif page.bg %}
                background: url('/assets/img/{{ page.bg }}') no-repeat center center;
                background-size: cover;
              {% endif %}
@@ -79,6 +83,3 @@
   <script src="site.js"></script>
 </body>
 </html>
-
-
-

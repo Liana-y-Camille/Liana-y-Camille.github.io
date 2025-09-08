@@ -1,6 +1,6 @@
 ---
 title: "Wedding party"
-bg: beige
+bg_color: "#FAF3E0"
 color: charcoal
 style: center
 ---
