@@ -20,7 +20,7 @@ style: center
   <!-- Section Title -->
   <strong>
     <div style="font-size: 2em; margin-bottom: 1em;">
-      Things to Do Around in El Salvador
+      Things to do in El Salvador
     </div>
   </strong>
 </div>
@@ -30,7 +30,7 @@ style: center
 <div style="
   width: 100%;
   aspect-ratio: 16 / 9;
-  background: url('/assets/img/changaro_fiancaille_cut.png') no-repeat center center;
+  background: url('/assets/img/conchagua_sunrise_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">
@@ -92,7 +92,7 @@ style: center
       <li><strong>El Cuco:</strong> Chill at La Tortuga for a full beach day.</li>
       <li><strong>Punta Mango:</strong> Surf lessons! (This is where we got engaged!)</li>
     </ul>
-    <p><strong>Mirador Espíritu de la Montaña (Conchagua):</strong> Bring a tent and catch a breathtaking sunrise.</p>
+    <p><strong>Mirador Espíritu de la Montaña (Conchagua):</strong> Bring or rent a tent and catch a breathtaking sunrise.</p>
   </div>
 
 </div>
