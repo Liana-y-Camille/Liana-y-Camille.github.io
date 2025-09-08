@@ -144,7 +144,7 @@ color: charcoal
   margin: 40px auto;
 ">
 
-  <!-- Beach Day Title -->
+  <!-- Ataco Day Title -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
       Day in Ataco, <br> a charismatic town in the mountains of El Salvador
