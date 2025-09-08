@@ -20,7 +20,7 @@ style: center
   <!-- Title -->
   <strong>
     <div style="font-size: 2em; margin-bottom: 0.5em;">
-      Wedding Details
+      Wedding Party
     </div>
   </strong>
 
