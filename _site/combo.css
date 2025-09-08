@@ -571,10 +571,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-home { border-color: us_croatia.jpg; }
-  #home { background-color: us_croatia.jpg !important; color: #2C2C2C; }
+  nav .p-home { border-color: bg_homepage_us.png; }
+  #home { background-color: bg_homepage_us.png !important; color: #2C2C2C; }
   #home a { color: #2C2C2C; }
-  #home .sectiondivider { color: us_croatia.jpg; }
+  #home .sectiondivider { color: bg_homepage_us.png; }
 
 
 

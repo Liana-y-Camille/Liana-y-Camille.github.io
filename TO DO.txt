@@ -8,3 +8,16 @@ No se si me gustan como estan los tabs como que its all too close together and l
 
 
 Venue should be in Wedding party section
+
+
+
+
+<!-- photo of us -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/us_croatia.jpg') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
