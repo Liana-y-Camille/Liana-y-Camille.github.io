@@ -27,7 +27,7 @@ color: charcoal
 <div style="
   width: 100%;
   aspect-ratio: 16 / 9;
-  background: url('/assets/img/beach_pool.png') no-repeat center center;
+  background: url('/assets/img/beach_pool.jpg') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">
@@ -74,7 +74,7 @@ color: charcoal
     <br>
     <br>
     <br>
-    <!-- keep in minf -->
+    <!-- keep in mind -->
     <strong>
     <span style="font-size: 1.5em;">Keep in Mind</span><br>
     </strong>
