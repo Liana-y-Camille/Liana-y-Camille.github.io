@@ -3,7 +3,7 @@ title: "Pre-Wedding"
 bg: beige
 color: charcoal
 ---
-<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -150px;"> <!-- avoid empty space after auto-scrolling -->
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -250px;"> <!-- avoid empty space after auto-scrolling -->
 
 <!-- Date & Location -->
 <div style="
@@ -145,11 +145,11 @@ color: charcoal
   <!-- Beach Day Title -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      Day at Ataco, <br> a charismatic town in the mountains of El Salvador
+      Day in Ataco, <br> a charismatic town in the mountains of El Salvador
     </div>
   </strong>
   <div style="font-size: 1.3em; margin-bottom: 1em;">
-    (1.5 - 2 hours drive from San Salvador)
+    (1.5-2 hours drive from San Salvador)
   </div>
 
   <!-- Intro Text -->
@@ -182,3 +182,6 @@ color: charcoal
   </div>
 
 </div>
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
