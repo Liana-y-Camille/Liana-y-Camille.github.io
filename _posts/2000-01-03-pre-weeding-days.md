@@ -27,7 +27,7 @@ color: charcoal
 <div style="
   width: 100%;
   aspect-ratio: 16 / 9;
-  background: url('/assets/img/beach_pool.jpg') no-repeat center center;
+  background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">

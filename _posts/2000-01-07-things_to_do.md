@@ -5,6 +5,27 @@ color: charcoal
 style: center
 ---
 
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -150px;"> <!-- avoid empty space after auto-scrolling -->
+
+
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Section Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 1em;">
+      Things to Do Around in El Salvador
+    </div>
+  </strong>
+</div>
+
+
 <!-- photo for introducing the section -->
 <div style="
   width: 100%;
@@ -25,13 +46,6 @@ style: center
   max-width: 800px;
   margin: 40px auto;
 ">
-
-  <!-- Section Title -->
-  <strong>
-    <div style="font-size: 1.8em; margin-bottom: 1em;">
-      Things to Do Around in El Salvador
-    </div>
-  </strong>
 
   <!-- Day Trips -->
   <strong>
