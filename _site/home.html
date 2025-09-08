@@ -13,11 +13,14 @@
   text-align: center;
   margin: 60px 20px 40px 20px;
   font-family: 'Playfair Display', serif;
-  font-size: 3.5em;
+  font-size: clamp(2em, 6vw, 3.5em); /* responsive font size */
   color: #2C2C2C;
   letter-spacing: 2px;
   line-height: 1.1;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  white-space: nowrap;
+  overflow: hidden; /* prevents accidental overflow */
+  text-overflow: ellipsis; /* optional: adds ... if it overflows */
 ">
   Liana &amp; Camille
 </div>
@@ -57,7 +60,7 @@
 <!-- photo of the Venue -->
 <div style="
   width: 100%;
-  min-height: 80vh; /* takes 40% of viewport height */
+  min-height: 40vh; /* takes 40% of viewport height */
   background: url('/assets/img/venue_foret_inst_1_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
