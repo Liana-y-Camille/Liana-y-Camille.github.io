@@ -571,18 +571,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-home_2 { border-color: #FAF3E0; }
-  #home_2 { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #home_2 a { color: #2C2C2C; }
-  #home_2 .sectiondivider { color: #FAF3E0; }
-
-  
-  
-  
-  nav .p-home { border-color: bg_homepage_us.png; }
-  #home { background-color: bg_homepage_us.png !important; color: ; }
-  #home a { color: ; }
-  #home .sectiondivider { color: bg_homepage_us.png; }
+  nav .p-home { border-color: #FAF3E0; }
+  #home { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #home a { color: #2C2C2C; }
+  #home .sectiondivider { color: #FAF3E0; }
 
 
 
