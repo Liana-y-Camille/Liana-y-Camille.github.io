@@ -28,7 +28,7 @@ style: center
 <div style="
   width: 100%;
   aspect-ratio: 16 / 9;
-  background: url('/assets/img/venue_foret_inst_1_cut_2.png') no-repeat center center;
+  background: url('/assets/img/venue_foret_inst_1_cut_3.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">
@@ -99,7 +99,7 @@ style: center
       Attire: Black Tie
     </div>
   </strong>
-  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
     Suits, ties, floor-length dresses, and gowns. <br><br>
     If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br><br>
     Please keep the grass in mind when choosing shoes.
@@ -111,7 +111,7 @@ style: center
       Civil Ceremony
     </div>
   </strong>
-  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
     The civil ceremony will take place at the same place as the reception (Forêt) at <strong>3:00 pm</strong>.
   </div>
 
