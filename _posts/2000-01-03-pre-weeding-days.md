@@ -28,7 +28,7 @@ color: charcoal
 <!-- photo of the beach location -->
 <div style="
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1.5;
   background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
