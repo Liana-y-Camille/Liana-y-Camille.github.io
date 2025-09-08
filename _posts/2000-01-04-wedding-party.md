@@ -100,8 +100,8 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Suits, ties, floor-length dresses, and gowns. <br><br>
-    If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br><br>
+    Suits, ties, floor-length dresses, and gowns. <br>
+    If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br>
     Please keep the grass in mind when choosing shoes.
   </div>
 
@@ -112,7 +112,7 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    The civil ceremony will take place at the same place as the reception (Forêt) at <strong>3:00 pm</strong>.
+    The civil ceremony will take place at the same place as the reception (Forêt) at <strong>4:00 pm</strong>.
   </div>
 
   <!-- Reception -->
