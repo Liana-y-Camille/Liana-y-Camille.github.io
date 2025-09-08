@@ -28,7 +28,7 @@ style: center
 <div style="
   width: 100%;
   aspect-ratio: 16 / 9;
-  background: url('/assets/img/venue_foret_inst_1_cut_2.png') no-repeat center center;
+  background: url('/assets/img/venue_foret_inst_1_cut_3.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">
