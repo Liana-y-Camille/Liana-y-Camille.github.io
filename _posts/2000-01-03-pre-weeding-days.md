@@ -34,7 +34,7 @@ color: charcoal
 </div>
 
 
-<!-- text about the beach day -->
+<!-- Beach Day Info -->
 <div style="
   color: #2C2C2C;
   font-family: 'Playfair Display', serif;
@@ -43,51 +43,49 @@ color: charcoal
   max-width: 700px;
   margin: 40px auto;
 ">
-<!-- intro -->
+
+  <!-- Beach Day Title -->
   <strong>
-    <span style="font-size: 1.5em;">Beach day at El Sunzal,<br>La Libertad</span><br>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Beach Day at El Sunzal, <br> La Libertad
+    </div>
   </strong>
-  <span style="font-size: 1.3em;">(35 minutes from San Salvador)</span>
-    <span style="font-size: 1.2em;">
-    <br>
-    <br>
-    Bring your beach clothes!
-    <br>
-    <br></span>
-    <span style="font-size: 1.2em;">We invite friends and family coming from abroad to spend a chill and fun day with us at the beach</span>
-    <br>
-    <br>
-    <br>
-    <br>
-    <!-- shuttle service info -->
-    <strong>
-    <span style="font-size: 1.5em;">Shuttle service<br>San Salvador &#8596; El Sunzal</span><br>
-    </strong>
-    <br>
-    <span style="font-size: 1.2em;">Transportation will be provided to international guests from xxx Hotel to El Sunzal
-    <br>
-    <br>
-    Pick-up time at xxx Hotel: 10:00 am
-    <br>
-    Return time to San Salvador: 17:30 am
-    </span>
-    <br>
-    <br>
-    <br>
-    <!-- keep in mind -->
-    <strong>
-    <span style="font-size: 1.5em;">Keep in Mind</span><br>
-    </strong>
-    <br>
-    <span style="font-size: 1.2em;">Bring swimming suit, towel, sunglasses, sunscreen, flip flops and generally very fresh clothes!
-    <br>
-    <br>
-    Food and drinks will be provided
-    <br>
-    <br>
-    Please RSVP via Camille
-    </span>
+  <div style="font-size: 1.3em; margin-bottom: 1em;">
+    (35 minutes from San Salvador)
+  </div>
+
+  <!-- Intro Text -->
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Bring your beach clothes! <br><br>
+    We invite friends and family coming from abroad to spend a chill and fun day with us at the beach.
+  </div>
+
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Shuttle Service <br> San Salvador &#8596; El Sunzal
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Transportation will be provided to international guests from XXX Hotel to El Sunzal. <br>
+    Pick-up time at XXX Hotel: 10:00 am <br>
+    Return time to San Salvador: 17:30 pm
+  </div>
+
+  <!-- Keep in Mind -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Keep in Mind
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br><br>
+    Food and drinks will be provided. <br><br>
+    Please RSVP via Camille.
+  </div>
+
 </div>
+
 
 
 
