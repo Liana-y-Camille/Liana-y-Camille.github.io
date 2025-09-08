@@ -63,23 +63,14 @@
 
         <div class="container center">
           <!-- photo of us -->
-<div class="hero-image"></div>
-
-<style>
-.hero-image {
+<div style="
   width: 100%;
-  height: 100vh;
+  height: 100vh;                  /* full viewport height */
   background: url('/assets/img/us_croatia.jpg') no-repeat center center;
-  background-size: cover; /* fills screen */
-}
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
-  .hero-image {
-    background-position: center top; /* shift focus up */
-  }
-}
-</style>
+  background-size: cover;          /* cover entire area without stretching */
+  border-radius: 0;                /* optional: remove corners for full-screen */
+">
+</div>
 
 <!-- "Liana y Camille" -->
 <div style="
