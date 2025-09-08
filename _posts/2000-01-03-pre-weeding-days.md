@@ -3,7 +3,7 @@ title: "Pre-Wedding"
 bg: beige
 color: charcoal
 ---
-<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -240px;">
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -150px;"> <!-- avoid empty space after auto-scrolling -->
 
 <!-- Date & Location -->
 <div style="
@@ -16,7 +16,7 @@ color: charcoal
   text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
 ">
   <strong>
-    <span style="font-size: 2em;">Pre-Wedding Day - Beach Day</span><br>
+    <span style="font-size: 2em;">Pre-Wedding Beach Day</span><br>
     <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br>
     <span style="font-size: 1.2em;">10:00 – 17:30</span>
   </strong>
@@ -26,14 +26,67 @@ color: charcoal
 <div style="
   width: 100%;
   min-height: 85vh;
-  background: url('/assets/img/beach_pool.jpg') no-repeat center center;
+  background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
 ">
 </div>
 
 
-<div style="margin-top: 50px;"></div>   <!-- add blank space above -->
+<!-- text about the beach day -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+<!-- intro -->
+  <strong>
+    <span style="font-size: 1.5em;">Beach day at El Sunzal, La Libertad</span><br>
+  </strong>
+  <span style="font-size: 1.5em;">(35 minutes from San Salvador)</span>
+    <span style="font-size: 1.2em;">
+    <br>
+    <br>
+    Bring your beach clothes!
+    <br>
+    <br></span>
+    <span style="font-size: 1.2em;">We invite friends and family coming from abroad to spend a chill and fun day with us at the beach</span>
+    <br>
+    <br>
+    <br>
+    <br>
+    <!-- shuttle service info -->
+    <strong>
+    <span style="font-size: 1.5em;">Shuttle service<br>San Salvador &#8596; El Sunzal</span><br>
+    </strong>
+    <br>
+    <span style="font-size: 1.2em;">Transportation will be provided to international guests from xxx Hotel to El Sunzal
+    <br>
+    <br>
+    Pick-up time at xxx Hotel: 10:00 am
+    <br>
+    Return time to San Salvador: 17:30 am
+    </span>
+    <br>
+    <br>
+    <br>
+    <!-- keep in minf -->
+    <strong>
+    <span style="font-size: 1.5em;">Keep in Mind</span><br>
+    </strong>
+    <br>
+    <span style="font-size: 1.2em;">Bring swimming suit, towel, sunglasses, sunscreen, flip flops and generally very fresh clothes!<br> It can get very hot!
+    <br>
+    <br>
+    Food and drinks will be provided
+    <br>
+    <br>
+    Please RSVP via Camille
+    </span>
+</div>
 
 
 
