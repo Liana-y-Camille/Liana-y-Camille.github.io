@@ -531,6 +531,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-q-and-a { border-color: #FAF3E0; }
+  #q-and-a { background-color: #FAF3E0 !important; color: #2C2C2C; }
+  #q-and-a a { color: #2C2C2C; }
+  #q-and-a .sectiondivider { color: #FAF3E0; }
+
+  
+  
+  
   nav .p-things_to_do { border-color: #FAF3E0; }
   #things_to_do { background-color: #FAF3E0 !important; color: #2C2C2C; }
   #things_to_do a { color: #2C2C2C; }
@@ -543,14 +551,6 @@ html { box-sizing: border-box; }
   #travel { background-color: #FAF3E0 !important; color: #2C2C2C; }
   #travel a { color: #2C2C2C; }
   #travel .sectiondivider { color: #FAF3E0; }
-
-  
-  
-  
-  nav .p-q-and-a { border-color: #FAF3E0; }
-  #q-and-a { background-color: #FAF3E0 !important; color: #2C2C2C; }
-  #q-and-a a { color: #2C2C2C; }
-  #q-and-a .sectiondivider { color: #FAF3E0; }
 
   
   

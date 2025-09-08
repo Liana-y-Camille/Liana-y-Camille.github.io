@@ -50,7 +50,7 @@ color: charcoal
       Beach Day at El Sunzal, <br> La Libertad
     </div>
   </strong>
-  <div style="font-size: 1.3em; margin-bottom: 1em;">
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
     (35 minutes drive from San Salvador)
   </div>
 
