@@ -5,20 +5,52 @@ color: charcoal
 style: center
 ---
 
-
-<!-- text -->
+<!-- Section Title - centered on the page -->
 <div style="
-  color: #2C2C2C;               /* charcoal text for readability */
-  font-family: 'Playfair Display', serif;  /* elegant wedding font */
   font-size: 2em;
-  line-height: 1.7;
   text-align: center;
-  max-width: 700px;
-  margin: 40px auto;
+  margin: 40px 0;
+  width: 100%;
 ">
-  <p>
-Attire: Black tie<br>
-Suits, ties, floor length dresses and gowns. If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. Please keep the grass in mind when choosing shoes.
-
-  </p>
+  Wedding Details
 </div>
+
+<!-- Wedding Details Section -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.6;
+  text-align: justify;
+  max-width: 800px;
+  margin: 0 auto 40px auto;
+">
+
+  <!-- Attire -->
+  <div style="margin-bottom: 25px;">
+    <strong style="font-size: 1.5em;">Attire: Black Tie</strong>
+    <p style="font-size: 1.2em; margin-top: 5px; text-align: justify;">
+      Suits, ties, floor-length dresses, and gowns. If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. Please keep the grass in mind when choosing shoes.
+    </p>
+  </div>
+
+  <!-- Civil Ceremony -->
+  <div style="margin-bottom: 25px;">
+    <strong style="font-size: 1.5em;">Civil Ceremony</strong>
+    <p style="font-size: 1.2em; margin-top: 5px; text-align: justify;">
+      The civil ceremony will take place at the same place as the reception (Forêt) at <strong>3:00 pm</strong>. The ceremony will last around 20 minutes.
+    </p>
+  </div>
+
+  <!-- Reception -->
+  <div style="margin-bottom: 25px;">
+    <strong style="font-size: 1.5em;">Reception</strong>
+    <p style="font-size: 1.2em; margin-top: 5px; text-align: justify;">
+      What can we say here?
+    </p>
+    <p style="font-size: 1.2em; margin-top: 5px; text-align: justify;">
+      blabliblou
+    </p>
+  </div>
+
+</div>
+

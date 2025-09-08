@@ -5,6 +5,16 @@ color: charcoal
 style: center
 ---
 
+<!-- photo for introducing the section -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/changaro_fiancaille_cut.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
 
 <!-- Things to Do Around El Salvador -->
 <div style="
