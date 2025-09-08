@@ -5,6 +5,8 @@ color: charcoal
 ---
 <div id="Pre-Wedding" style="padding-top: 0px; margin-top: -250px;"> <!-- avoid empty space after auto-scrolling -->
 
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
 <!-- Date & Location -->
 <div style="
   text-align: center;
