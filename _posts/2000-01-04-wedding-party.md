@@ -43,8 +43,7 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 1.5em;">
-    The civil ceremony will take place at the same place as the reception (Forêt) at <strong>3:00 pm</strong>. <br><br>
-    The ceremony will last around 20 minutes.
+    The civil ceremony will take place at the same place as the reception (Forêt) at <strong>3:00 pm</strong>.
   </div>
 
   <!-- Reception -->
