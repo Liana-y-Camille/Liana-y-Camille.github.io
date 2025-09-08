@@ -16,7 +16,8 @@ color: charcoal
   text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
 ">
   <strong>
-    <span style="font-size: 2em;">Pre-Wedding Beach Day</span><br>
+    <span style="font-size: 2em;">Pre-Wedding<br>Beach Day</span><br>
+    <br>
     <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br>
     <span style="font-size: 1.2em;">10:00 – 17:30</span>
   </strong>
@@ -25,7 +26,7 @@ color: charcoal
 <!-- photo of the beach location -->
 <div style="
   width: 100%;
-  min-height: 85vh;
+  aspect-ratio: 16 / 9;
   background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
   background-size: cover;
   border-radius: 8px; /* optional: soften corners */
@@ -44,9 +45,9 @@ color: charcoal
 ">
 <!-- intro -->
   <strong>
-    <span style="font-size: 1.5em;">Beach day at El Sunzal, La Libertad</span><br>
+    <span style="font-size: 1.5em;">Beach day at El Sunzal,<br>La Libertad</span><br>
   </strong>
-  <span style="font-size: 1.5em;">(35 minutes from San Salvador)</span>
+  <span style="font-size: 1.3em;">(35 minutes from San Salvador)</span>
     <span style="font-size: 1.2em;">
     <br>
     <br>
@@ -78,7 +79,7 @@ color: charcoal
     <span style="font-size: 1.5em;">Keep in Mind</span><br>
     </strong>
     <br>
-    <span style="font-size: 1.2em;">Bring swimming suit, towel, sunglasses, sunscreen, flip flops and generally very fresh clothes!<br> It can get very hot!
+    <span style="font-size: 1.2em;">Bring swimming suit, towel, sunglasses, sunscreen, flip flops and generally very fresh clothes!
     <br>
     <br>
     Food and drinks will be provided
