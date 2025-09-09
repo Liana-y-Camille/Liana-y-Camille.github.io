@@ -25,7 +25,6 @@ style: center
   </strong>
 </div>
 
-
 <!-- photo for introducing the section -->
 <div style="
   width: 100%;
@@ -36,6 +35,19 @@ style: center
 ">
 </div>
 
+<!-- intro text-->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.5em;">
+    <br><em>Our handpicked suggestions for exploring the country</em><br>
+  </p>
+</div>
 
 <!-- Things to Do Around El Salvador -->
 <div style="
@@ -92,7 +104,7 @@ style: center
   <!-- Overnight Trips -->
 <strong>
   <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-    Overnight Trips
+    <br><br>Overnight Trips
   </div>
 </strong>
 
