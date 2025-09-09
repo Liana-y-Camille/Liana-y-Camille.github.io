@@ -70,8 +70,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from XXX Hotel to El Sunzal. <br>
-    <strong>Pick-up time</strong> at XXX Hotel: 11:00 am <br>
-    <strong>Return time</strong> to San Salvador: 19:00 pm
+    <strong>Pick-up time</strong> at XXX Hotel: <strong>11:00 am</strong> <br>
+    <strong>Return time</strong> to San Salvador: <strong>19:00 pm</strong>
   </div>
 
   <!-- Keep in Mind -->
@@ -81,9 +81,9 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br>
-    Food and drinks will be provided. <br>
-    Please RSVP via Camille (+33670831699).
+    • Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br>
+    • Food and drinks will be provided. <br>
+    • Please RSVP via Camille (+33670831699).
   </div>
 
 </div>
@@ -150,7 +150,7 @@ color: charcoal
       Day in Ataco's country house and town
     </div>
   </strong>
-  <div style="font-size: 1.3em; margin-bottom: 1em;">
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
     (1.5-2 hours drive from San Salvador)
   </div>
 
@@ -167,8 +167,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from XXX Hotel to Ataco. <br>
-    <strong>Pick-up time</strong> at XXX Hotel: 10:00 am <br>
-    <strong>Return time</strong> to San Salvador: 17:30 pm
+    <strong>Pick-up time</strong> at XXX Hotel: <strong>10:00 am</strong> <br>
+    <strong>Return time</strong> to San Salvador: <strong>17:30 pm</strong>
   </div>
 
   <!-- Keep in Mind -->
@@ -178,9 +178,9 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    Pack a pair of comfortable shoes so you can easily explore the town.<br>
-    Food and drinks will be provided.<br>
-    Please RSVP via Camille (+33670831699).
+    • Pack a pair of comfortable shoes so you can easily explore the town.<br>
+    • Food and drinks will be provided.<br>
+    • Please RSVP via Camille (+33670831699).
   </div>
 
 </div>

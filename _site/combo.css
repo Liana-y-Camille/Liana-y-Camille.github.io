@@ -502,10 +502,10 @@ html { box-sizing: border-box; }
 .text-turquoise a { color: #0fbfcf; }
 .bg-turquoise     { background-color: #0fbfcf !important; }
 
-.border-beige { border-color: #FDE9D9 !important; }
-.text-beige   { color: #FDE9D9; }
-.text-beige a { color: #FDE9D9; }
-.bg-beige     { background-color: #FDE9D9 !important; }
+.border-beige { border-color: #FAF3E0 !important; }
+.text-beige   { color: #FAF3E0; }
+.text-beige a { color: #FAF3E0; }
+.bg-beige     { background-color: #FAF3E0 !important; }
 
 .border-charcoal { border-color: #2C2C2C !important; }
 .text-charcoal   { color: #2C2C2C; }

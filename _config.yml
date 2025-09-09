@@ -32,7 +32,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  beige:     "#F4F2F0"   # initial soft bone white: #FAF3E0
+  beige:     "#FAF3E0"   #  soft bone white
   charcoal:  "#2C2C2C"   # readable text
   white:     "#FFFFFF"
   black:     "#111111"
