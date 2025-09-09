@@ -118,6 +118,24 @@ style: center
 </div>
 
 
+  <!-- longer trips -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+    <br><br>Several Days Trip
+  </div>
+</strong>
+
+<div style="font-size: 1.2em; margin-bottom: 2em; text-align: center;">
+  <p>
+    If you dare venturing beyond the frontier of El Salvador, we highly recommend a visit to 
+    <a href="https://maps.app.goo.gl/eZDK92rNKvtCtfmy5" target="_blank">Antigua, Guatemala</a> (~5 hours bus drive from San Salvador). 
+    For the ultimate adventure, hike 
+    <a href="https://maps.app.goo.gl/k3cTUJebzPf2VEvP6" target="_blank">Acatenango Volcano</a> and spend an unforgettable overnight stay with an active volcano erupting right before your eyes.
+  </p>
+</div>
+
+
+
 </div>
 
 
