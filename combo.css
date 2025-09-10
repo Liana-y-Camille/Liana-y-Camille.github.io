@@ -6,7 +6,7 @@
 
 /* Adjust top tab text size */
 nav ul li a {
-  font-size: 12px; /* change this value as needed */
+  font-size: 14px; /* change this value as needed */
 }
 
 @media (max-width: 480px) {
