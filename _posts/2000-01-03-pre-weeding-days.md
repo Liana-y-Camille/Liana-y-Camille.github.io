@@ -53,7 +53,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 1em;">
-    (35 minutes drive from San Salvador)
+    (45 minutes drive from San Salvador)
   </div>
 
   <!-- Intro Text -->
