@@ -908,3 +908,14 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+
+/* Adjust top tab text size */
+nav ul li a {
+  font-size: 12px; /* change this value as needed */
+}
+
+@media (max-width: 480px) {
+  nav ul li a {
+    font-size: 12px; /* smaller text on phones */
+  }
+}
