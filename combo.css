@@ -1,33 +1,25 @@
----
----
-/* Base and skeleton styles */
-{% include css/base.css %}
-{% include css/skeleton.css %}
-{% include css/main.css %}
-
-/* ==============================
-   Classic Horizontal Tabs (wrapping for mobile)
-   ============================== */
 .classic-tabs ul {
   display: flex;
-  flex-wrap: wrap; /* allow tabs to wrap on small screens */
+  flex-wrap: nowrap;           /* no wrapping */
   gap: 20px;
   padding: 15px 20px;
   margin: 0;
   list-style: none;
-  justify-content: center;
+  justify-content: flex-start; /* align left for scrolling */
+  overflow-x: auto;            /* allow horizontal scroll */
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
   border-bottom: 2px solid #f0f0f0;
 }
 
 .classic-tabs li {
-  flex: 0 0 auto;
+  flex: 0 0 auto;              /* prevent shrinking */
 }
 
 .classic-tabs a {
   display: inline-block;
   padding: 8px 12px;
   text-decoration: none;
-  color: #f3efef; /* higher contrast for readability */
+  color: #f2eded;              /* higher contrast for readability */
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   border-bottom: 2px solid transparent;
@@ -35,8 +27,8 @@
 }
 
 .classic-tabs a:hover {
-  border-color: #C08552; /* site.accent */
-  color: #C08552;        /* accent color on hover */
+  border-color: #C08552;       /* site.accent */
+  color: #C08552;              /* accent color on hover */
 }
 
 /* Optional icons inside tabs */
@@ -45,4 +37,19 @@
   height: 18px;
   margin-right: 5px;
   vertical-align: middle;
+}
+
+/* Optional: hide scrollbar for a cleaner look (Webkit browsers) */
+.classic-tabs ul::-webkit-scrollbar {
+  height: 6px;
+}
+
+.classic-tabs ul::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 3px;
+}
+
+.classic-tabs ul::-webkit-scrollbar-thumb {
+  background: #C08552;
+  border-radius: 3px;
 }
