@@ -1,3 +1,4 @@
+/* Base and skeleton styles */
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -908,3 +909,46 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+
+/* ==============================
+   Button-like Tabs
+   ============================== */
+.button-tabs ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 15px 20px;
+  margin: 0;
+  list-style: none;
+  justify-content: center;
+  background-color: #FFFFFF; /* site.white */
+}
+
+.button-tabs li {
+  flex: 0 0 auto;
+}
+
+.button-tabs a {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 25px;
+  background: #49a7e9; /* site.blue */
+  color: #FFFFFF;      /* site.white */
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.button-tabs a:hover {
+  background: #9bcf2f; /* site.green */
+  transform: scale(1.05);
+}
+
+/* Optional icons inside buttons */
+.button-tabs .nav-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}

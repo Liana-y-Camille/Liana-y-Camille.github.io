@@ -19,13 +19,22 @@
 <body>
   <div id="main">
 
-    <!-- Navigation -->
-    <nav>
+    <!-- Navigation: Button-like Tabs -->
+    <nav class="button-tabs">
       <ul>
         {% for node in site.posts reversed %}
           {% unless node.nav_hide or node['nav-hide'] %}
             {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-            <li class="p-{{id}}"><a href="#{{id}}">{{ node.title }}</a></li>
+            <li class="p-{{id}}">
+              <a href="#{{id}}">
+                {% if node.fa-icon %}
+                  <i class="fa fa-{{ node.fa-icon }}"></i>
+                {% elsif node.icon %}
+                  <img src="{{ node.icon }}" alt="" class="nav-icon">
+                {% endif %}
+                {{ node.title }}
+              </a>
+            </li>
           {% endunless %}
         {% endfor %}
       </ul>
