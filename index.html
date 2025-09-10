@@ -10,7 +10,6 @@
   <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="combo.css">
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Norican&display=swap" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
@@ -19,22 +18,13 @@
 <body>
   <div id="main">
 
-    <!-- Navigation: Classic Horizontal Tabs (wrapping) -->
-    <nav class="classic-tabs">
+    <!-- Navigation -->
+    <nav>
       <ul>
         {% for node in site.posts reversed %}
           {% unless node.nav_hide or node['nav-hide'] %}
             {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-            <li class="p-{{id}}">
-              <a href="#{{id}}">
-                {% if node.fa-icon %}
-                  <i class="fa fa-{{ node.fa-icon }}"></i>
-                {% elsif node.icon %}
-                  <img src="{{ node.icon }}" alt="" class="nav-icon">
-                {% endif %}
-                {{ node.title }}
-              </a>
-            </li>
+            <li class="p-{{id}}"><a href="#{{id}}">{{ node.title }}</a></li>
           {% endunless %}
         {% endfor %}
       </ul>

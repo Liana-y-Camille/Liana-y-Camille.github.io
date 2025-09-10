@@ -1,4 +1,3 @@
-/* Base and skeleton styles */
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -909,45 +908,3 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
-
-/* ==============================
-   Classic Horizontal Tabs (wrapping for mobile)
-   ============================== */
-.classic-tabs ul {
-  display: flex;
-  flex-wrap: wrap; /* allow tabs to wrap on small screens */
-  gap: 20px;
-  padding: 15px 20px;
-  margin: 0;
-  list-style: none;
-  justify-content: center;
-  border-bottom: 2px solid #f0f0f0;
-}
-
-.classic-tabs li {
-  flex: 0 0 auto;
-}
-
-.classic-tabs a {
-  display: inline-block;
-  padding: 8px 12px;
-  text-decoration: none;
-  color: #f3efef; /* higher contrast for readability */
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  border-bottom: 2px solid transparent;
-  transition: border-color 0.3s, color 0.3s;
-}
-
-.classic-tabs a:hover {
-  border-color: #C08552; /* site.accent */
-  color: #C08552;        /* accent color on hover */
-}
-
-/* Optional icons inside tabs */
-.classic-tabs .nav-icon {
-  width: 18px;
-  height: 18px;
-  margin-right: 5px;
-  vertical-align: middle;
-}
