@@ -911,10 +911,11 @@ nav ul li:hover, nav ul li.active {
 
 
 /* ==============================
-   Classic Horizontal Tabs
+   Classic Horizontal Tabs (wrapping for mobile)
    ============================== */
 .classic-tabs ul {
   display: flex;
+  flex-wrap: wrap; /* allow tabs to wrap on small screens */
   gap: 20px;
   padding: 15px 20px;
   margin: 0;
@@ -931,7 +932,7 @@ nav ul li:hover, nav ul li.active {
   display: inline-block;
   padding: 8px 12px;
   text-decoration: none;
-  color: #111111; /* site.charcoal */
+  color: #f3efef; /* higher contrast for readability */
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   border-bottom: 2px solid transparent;
@@ -940,7 +941,7 @@ nav ul li:hover, nav ul li.active {
 
 .classic-tabs a:hover {
   border-color: #C08552; /* site.accent */
-  color: #C08552; /* accent color on hover */
+  color: #C08552;        /* accent color on hover */
 }
 
 /* Optional icons inside tabs */
