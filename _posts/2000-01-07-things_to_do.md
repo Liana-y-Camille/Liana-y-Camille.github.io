@@ -69,19 +69,18 @@ style: center
   </strong>
 
   <div style="font-size: 1.2em; margin-bottom: 2em; text-align: left;">
-  <p><strong><a href="https://maps.app.goo.gl/UhXw2f4ftxtB5RHq8" target="_blank">La Libertad Beaches</a></strong> – Just 45 mins from San Salvador.</p>
+    
+  <p><strong>La Libertad Beaches:</strong> Just 45 mins from San Salvador
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li><strong><a href="https://maps.app.goo.gl/xPSCDr3fcoGcoWz19" target="_blank">El Tunco</a>:</strong> Go to any of the restaurants and bars around in the little surf town. Don’t miss <a href="https://maps.app.goo.gl/VzBZRBUpD7XnF5CC6" target="_blank">the baos</a>!</li>
+      <li><strong><a href="https://maps.app.goo.gl/MkzRkMKSJdvKeHXA6" target="_blank">El Zonte</a>:</strong> Take a surf lesson, skate in the bowl, or enjoy food and drinks at one of the restaurants/bars by the beach.</li>
+      <li><strong><a href="https://maps.app.goo.gl/b2nvLTyxfeMC9RSv6" target="_blank">La Hola</a>:</strong> Delicious seafood and drinks with great ocean view.</li>
+      <li><strong><a href="https://maps.app.goo.gl/uCH54PrFxH6US3qD8" target="_blank">Puro Surf</a>:</strong> Surf academy + restaurant. Try surf-skating if you feel adventurous.</li>
+      <li><strong><a href="https://maps.app.goo.gl/Ktmxx8yydFtX8ALr8" target="_blank">Cascadas de Tamanique</a>:</strong> About an hour away. Intermediate hike to stunning waterfalls. For a guide, contact Vladi (+503 7099 1445).</li>
+    </ul>
+  </p>
 
-  <p><strong><a href="https://maps.app.goo.gl/xPSCDr3fcoGcoWz19" target="_blank">El Tunco</a>:</strong> Go to any of the restaurants and bars around in the little surf town. Don’t miss <a href="https://maps.app.goo.gl/VzBZRBUpD7XnF5CC6" target="_blank">the baos</a>!</p>
-
-  <p><strong><a href="https://maps.app.goo.gl/MkzRkMKSJdvKeHXA6" target="_blank">El Zonte</a>:</strong> Take a surf lesson, skate in the bowl, or enjoy food and drinks at one of the restaurants/bars by the beach.</p>
-
-  <p><strong><a href="https://maps.app.goo.gl/b2nvLTyxfeMC9RSv6" target="_blank">La Hola</a>:</strong> Delicious seafood and drinks with great ocean view.</p>
-
-  <p><strong><a href="https://maps.app.goo.gl/uCH54PrFxH6US3qD8" target="_blank">Puro Surf</a>:</strong> Surf academy + restaurant. Try surf-skating if you feel adventurous.</p>
-
-  <p><strong><a href="https://maps.app.goo.gl/Ktmxx8yydFtX8ALr8" target="_blank">Cascadas de Tamanique</a>:</strong> About an hour away. Intermediate hike to stunning waterfalls. For a guide, contact Vladi (+503 7099 1445).</p>
-
-  <p><strong><a href="https://maps.app.goo.gl/BDCcdyCuwMfL3CmX8" target="_blank">Centro Histórico de San Salvador</a>:</strong> A mix of culture and fun:
+  <p><strong><a href="https://maps.app.goo.gl/BDCcdyCuwMfL3CmX8" target="_blank">Centro Histórico de San Salvador</a>:</strong> A mix of culture and fun
     <ul style="list-style-type: disc; margin-left: 20px;">
       <li>Play pool and eat choripanes in the old-fashioned bar <a href="https://maps.app.goo.gl/Th8aGQdyHCjG3ecr7" target="_blank">La Dalia</a></li>
       <li>Dance at <a href="https://maps.app.goo.gl/GskhAAQAiQMYzqTK7" target="_blank">Cha-Cha-Cha</a></li>
@@ -89,18 +88,18 @@ style: center
     </ul>
   </p>
 
-  <p><strong><a href="https://maps.app.goo.gl/HfAkzitkANWixfT96" target="_blank">Peñón de Comasagua</a>:</strong> Small hike to a giant rock with awesome views.</p>
+  <p><strong><a href="https://maps.app.goo.gl/HfAkzitkANWixfT96" target="_blank">Peñón de Comasagua</a>:</strong> Small hike to a giant rock with awesome views</p>
 
-  <p><strong><a href="https://maps.app.goo.gl/PCX9wYBGzCghttXm6" target="_blank">Cerro Verde</a>:</strong> Nature and views:
+  <p><strong><a href="https://maps.app.goo.gl/PCX9wYBGzCghttXm6" target="_blank">Cerro Verde</a>:</strong> Nature and views
     <ul style="list-style-type: disc; margin-left: 20px;">
-      <li>Hike Volcán de Santa Ana if you’re up for it</li>
-      <li>Enjoy Volcán de Izalco from Casa 1800 (perfect spot for lunch or drinks)</li>
-      <li>Camp at Casa de Cristal for a night under the stars</li>
+      <li>Hike the <a href="https://maps.app.goo.gl/R8b8oZCKSjAPq29j8" target="_blank">Volcán de Santa Ana</a> if you’re up for it</li>
+      <li>Enjoy Volcán de Izalco from <a href="https://maps.app.goo.gl/PKwFtP81Be7mt3tSA" target="_blank">Casa 1800</a> (perfect spot for lunch or drinks)</li>
+      <li>Camp at <a href="https://maps.app.goo.gl/U3DHYfRLnS2z4HNb7" target="_blank">Casa de Cristal</a> for a night under the stars</li>
     </ul>
   </p>
 
   <p><strong><a href="https://maps.app.goo.gl/mk7sDgzhixTkr88u7" target="_blank">Parque El Imposible</a>:</strong> Tons of trails for hiking and exploring the Salvadorian jungle.</p>
-</div>
+  </div>
 
 
   <!-- Overnight Trips -->
