@@ -4,57 +4,15 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 
-/* ==============================
-   Top navigation tabs styling
-   ============================== */
-nav ul {
-  display: flex;
-  flex-wrap: wrap;       /* allow tabs to wrap if needed */
-  gap: 10px;             /* smaller space between tabs */
-  padding: 10px 15px;
-  margin: 0;
-  list-style: none;
-  justify-content: center;
-}
-
-nav li {
-  flex: 0 0 auto;        /* prevent shrinking */
-}
-
+/* Adjust top tab text size and padding */
 nav ul li a {
-  display: inline-block;
-  padding: 6px 10px;     /* reduced padding to fit more tabs */
-  font-size: 14px;       /* tab text size */
-  text-decoration: none;
-  color: #f4f1f1;        /* high-contrast default color */
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  border-bottom: 2px solid transparent;
-  transition: border-color 0.3s, color 0.3s;
-  white-space: nowrap;   /* prevent text wrapping inside tab */
+  font-size: 14px;     /* tab text size */
+  padding: 6px 10px;   /* reduced padding to fit more tabs per row */
 }
 
-nav ul li a:hover {
-  color: #C08552;        /* accent color on hover */
-  border-bottom: 2px solid #C08552;
-}
-
-/* Optional icons inside tabs */
-nav ul li a .nav-icon {
-  width: 18px;
-  height: 18px;
-  margin-right: 5px;
-  vertical-align: middle;
-}
-
-/* Mobile-specific adjustments */
 @media (max-width: 480px) {
-  nav ul {
-    gap: 5px;            /* smaller spacing on phones */
-  }
-
   nav ul li a {
-    font-size: 12px;     /* smaller tab text on mobile */
-    padding: 5px 8px;    /* smaller padding for small screens */
+    font-size: 12px;    /* smaller text on phones */
+    padding: 5px 8px;   /* slightly smaller padding for small screens */
   }
 }
