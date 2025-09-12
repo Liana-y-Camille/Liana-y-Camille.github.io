@@ -112,7 +112,7 @@ style: center
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Suits, ties, floor-length dresses, and gowns. <br><br>
-    If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br>
+    If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br><br>
     Please keep the grass in mind when choosing shoes.<br><br>
   </div>
 
