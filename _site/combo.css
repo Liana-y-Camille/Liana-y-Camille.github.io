@@ -916,6 +916,11 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+/* Top nav hover highlight in gold */
+nav ul li:hover, nav ul li.active {
+  border-top-color: #949393; /* gold accent */
+}
+
 
 /* Adjust top tab text size and padding */
 nav ul li a {
