@@ -96,7 +96,7 @@ style: center
   <!-- drawing of the attire (centered) -->
   <div style="display: flex; justify-content: center; margin-bottom: 0.3em;">
     <div style="
-      width: 60%;
+      width: 50%;
       aspect-ratio: 1 / 1;
       background: url('/assets/img/attire_gemini.png') no-repeat center center;
       background-size: contain; /* keeps proportions */
