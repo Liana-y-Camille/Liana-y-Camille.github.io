@@ -121,7 +121,7 @@ style: center
     max-width: 500px;
     margin: 40px auto;
     padding: 20px;
-    border: 1px solid #C08552;
+    border: 2px solid #9f7148ff;
     border-radius: 12px;
     background-color: #FAF3E0;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
