@@ -69,8 +69,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Transportation will be provided to international guests from XXX Hotel to El Sunzal. <br>
-    Pick-up time at XXX Hotel: <strong>11:00 am</strong> <br>
+    Transportation will be provided to international guests from Hotel Sheraton to El Sunzal. <br>
+    Pick-up time at Hotel Sheraton: <strong>11:00 am</strong> <br>
     Return time to San Salvador: <strong>19:00 pm</strong>
   </div>
 
@@ -166,8 +166,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Transportation will be provided to international guests from XXX Hotel to Ataco. <br>
-    Pick-up time at XXX Hotel: <strong>10:00 am</strong> <br>
+    Transportation will be provided to international guests from Hotel Sheraton to Ataco. <br>
+    Pick-up time at Hotel Sheraton: <strong>10:00 am</strong> <br>
     Return time to San Salvador: <strong>17:30 pm</strong>
   </div>
 
