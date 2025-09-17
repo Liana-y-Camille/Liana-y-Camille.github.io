@@ -107,7 +107,7 @@ style: center
   <!-- Attire -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Attire: Black Tie
+      Attire: Formal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
@@ -129,13 +129,13 @@ style: center
     text-align: center;
 ">
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 1.2em; color: #2C2C2C; line-height: 1.6; display: inline-block; text-align: left;">
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 15px;">
+    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 20px;">
       <span style="min-width: 80px; text-align: right; font-weight: bold;">3:30 p.m.</span> – Welcome & Guest Reception
     </li>
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 15px;">
+    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 20px;">
       <span style="min-width: 80px; text-align: right; font-weight: bold;">4:00 p.m.</span> – Civil Ceremony
     </li>
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 15px;">
+    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 18px;">
       <span style="min-width: 80px; text-align: right; font-weight: bold;">4:30 p.m.</span> – Drinks & Apéritif
     </li>
     <li style="display: flex; justify-content: flex-start; gap: 10px;">
