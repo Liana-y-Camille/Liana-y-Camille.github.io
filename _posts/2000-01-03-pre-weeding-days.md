@@ -21,7 +21,7 @@ color: charcoal
     <span style="font-size: 2em;">Pre-Wedding<br>Beach Day</span><br>
     <br>
     <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br>
-    <span style="font-size: 1.2em;">11:00 – 19:00</span>
+    <span style="font-size: 1.2em;">09:30 – 18:00</span>
   </strong>
 </div>
 
@@ -70,8 +70,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from Hotel Sheraton to El Sunzal. <br>
-    Pick-up time at Hotel Sheraton: <strong>11:00 am</strong> <br>
-    Return time to San Salvador: <strong>19:00 pm</strong>
+    Pick-up time at Hotel Sheraton: <strong>09:30 am</strong> <br>
+    Return time to San Salvador: <strong>18:00 pm</strong>
   </div>
 
   <!-- Keep in Mind -->
@@ -119,7 +119,7 @@ color: charcoal
     <span style="font-size: 2em;">Pre-Wedding<br>Ataco Day</span><br>
     <br>
     <span style="font-size: 1.5em;">Friday, March 13, 2026</span><br>
-    <span style="font-size: 1.2em;">10:00 – 17:30</span>
+    <span style="font-size: 1.2em;">08:30 – 16:00</span>
   </strong>
 </div>
 
@@ -167,8 +167,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from Hotel Sheraton to Ataco. <br>
-    Pick-up time at Hotel Sheraton: <strong>10:00 am</strong> <br>
-    Return time to San Salvador: <strong>17:30 pm</strong>
+    Pick-up time at Hotel Sheraton: <strong>08:30 am</strong> <br>
+    Return time to San Salvador: <strong>16:00 pm</strong>
   </div>
 
   <!-- Keep in Mind -->

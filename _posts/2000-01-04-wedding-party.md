@@ -93,7 +93,7 @@ style: center
     </div>
   </strong>
 
-  <!-- drawing of the attire (centered) -->
+  <!-- Image of the attire (centered) -->
   <div style="display: flex; justify-content: center; margin-bottom: 0.3em;">
     <div style="
       width: 50%;
@@ -112,37 +112,20 @@ style: center
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Suits, ties, floor-length dresses, and gowns. <br><br>
-    If wearing a gown, we recommend a shawl or light jacket as it might get chilly at night. <br><br>
+    If wearing a dress or gown, we recommend a shawl or light jacket as it might get chilly at night. <br><br>
     Please keep the grass in mind when choosing shoes.<br><br>
   </div>
 
-<!-- Program -->
-<div style="
-    max-width: 500px;
-    margin: 40px auto;
-    padding: 20px 20px 15px 20px; /* less bottom padding for balance */
-    border: 2px solid #9f7148ff;
-    border-radius: 12px;
-    background-color: #FAF3E0;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    font-family: 'Playfair Display', serif;
-    text-align: center;
-">
-  <ul style="list-style: none; padding: 0; margin: 0; font-size: 1.2em; color: #2C2C2C; line-height: 1.6; display: inline-block; text-align: left;">
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 20px;">
-      <span style="min-width: 80px; text-align: right; font-weight: bold;">3:30 p.m.</span> – Welcome & Guest Reception
-    </li>
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 20px;">
-      <span style="min-width: 80px; text-align: right; font-weight: bold;">4:00 p.m.</span> – Civil Ceremony
-    </li>
-    <li style="display: flex; justify-content: flex-start; gap: 10px; margin-bottom: 18px;">
-      <span style="min-width: 80px; text-align: right; font-weight: bold;">4:30 p.m.</span> – Drinks & Apéritif
-    </li>
-    <li style="display: flex; justify-content: flex-start; gap: 10px;">
-      <span style="min-width: 80px; text-align: right; font-weight: bold;">5:00 p.m.</span> – Dinner & Celebration
-    </li>
-  </ul>
-</div>
+
+  <!-- Civil Ceremony -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Civil Ceremony
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    The civil ceremony will take place at the same venue as the rest of the event, followed by a cocktail reception, dinner, and party.
+  </div>
 
 
 
