@@ -20,7 +20,7 @@ color: charcoal
   <strong>
     <span style="font-size: 2em;">Pre-Wedding<br>Beach Day</span><br>
     <br>
-    <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br>
+    <span style="font-size: 1.5em;">Thursday, March 12, 2026</span><br><br>
     <span style="font-size: 1.2em;">09:30 – 18:00</span>
   </strong>
 </div>
@@ -118,7 +118,7 @@ color: charcoal
   <strong>
     <span style="font-size: 2em;">Pre-Wedding<br>Ataco Day</span><br>
     <br>
-    <span style="font-size: 1.5em;">Friday, March 13, 2026</span><br>
+    <span style="font-size: 1.5em;">Friday, March 13, 2026</span><br><br>
     <span style="font-size: 1.2em;">08:30 – 16:00</span>
   </strong>
 </div>
