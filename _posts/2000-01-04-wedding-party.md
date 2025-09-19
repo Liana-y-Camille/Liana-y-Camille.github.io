@@ -124,10 +124,21 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    The civil ceremony will take place at the same venue as the rest of the event, followed by a cocktail reception, dinner, and party.
+    The civil ceremony will take place at the same venue as the rest of the event, followed by a cocktail reception, dinner, and party.<br><br>
   </div>
 
 
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Shuttle Service <br> San Salvador &#8596; Wedding Venue
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Transportation will be provided to international guests from <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> to the Wedding Venue. <br>
+    Pick-up time at Hotel Barcelo: <strong>3:30 pm</strong> <br>
+    Return time to San Salvador: <strong>00:00 am</strong> / <strong>2:00 am</strong>
+  </div>
 
 
 

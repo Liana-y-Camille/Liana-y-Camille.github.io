@@ -69,7 +69,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Transportation will be provided to international guests from Hotel Barcelo to El Sunzal. <br>
+    Transportation will be provided to international guests from <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> to El Sunzal. <br>
     Pick-up time at Hotel Barcelo: <strong>9:30 am</strong> <br>
     Return time to San Salvador: <strong>18:00 pm</strong>
   </div>
@@ -166,7 +166,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Transportation will be provided to international guests from Hotel Barcelo to Ataco. <br>
+    Transportation will be provided to international guests from <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> to Ataco. <br>
     Pick-up time at Hotel Barcelo: <strong>8:30 am</strong> <br>
     Return time to San Salvador: <strong>16:00 pm</strong>
   </div>
