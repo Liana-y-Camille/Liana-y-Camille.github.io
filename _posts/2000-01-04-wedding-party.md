@@ -127,6 +127,9 @@ style: center
     The civil ceremony will take place at the same venue as the rest of the event, followed by a cocktail reception, dinner, and party.<br><br>
   </div>
 
+<div style="font-size: 1.2em; margin-bottom: 2em;">
+    If you have any special dietary requirements, please let Camille know at +33670831699<br><br>
+  </div>
 
   <!-- Shuttle Service Info -->
   <strong>
