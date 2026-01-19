@@ -111,7 +111,7 @@ color: charcoal
     <span style="font-size: 2em;">Pre-Wedding<br>Beach Day</span><br>
     <br>
     <span style="font-size: 1.5em;">Friday, March 13, 2026</span><br><br>
-    <span style="font-size: 1.2em;">9:30 – 18:00</span>
+    <span style="font-size: 1.2em;">11:30 – 18:00</span>
   </strong>
 </div>
 
@@ -149,7 +149,7 @@ color: charcoal
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Bring your beach clothes! <br><br>
-    To start the celebrations, we invite our friends and family from abroad to enjoy a relaxed and fun day with us at the beach.
+    To start the celebrations, we invite our friends and family from abroad to enjoy a relaxed and fun afternoon with us at the beach.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -160,7 +160,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Transportation will be provided to international guests from <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> to El Sunzal. <br>
-    Pick-up time at Hotel Barcelo: <strong>9:30 am</strong> <br>
+    Pick-up time at Hotel Barcelo: <strong>11:30 am</strong> <br>
     Return time to San Salvador: <strong>18:00 pm</strong>
   </div>
 
@@ -172,7 +172,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em;">
     • Bring swimsuit, towel, sunglasses, sunscreen, flip flops, and light clothing. <br>
-    • Food and drinks will be provided. <br>
+    • Drinks and snacks will be provided. <br>
     • Please RSVP via Camille (+33670831699).
   </div>
 
