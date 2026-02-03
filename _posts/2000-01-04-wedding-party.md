@@ -93,6 +93,11 @@ style: center
     </div>
   </strong>
 
+  <div style="font-size: 1.4em; margin-bottom: 2em;">
+  We look forward to welcoming you at 4:00 p.m. <br>
+  The ceremony will begin at 4:30 p.m.<br><br>
+</div>
+
   <!-- Image of the attire (centered) -->
   <div style="display: flex; justify-content: center; margin-bottom: 0.3em;">
     <div style="
